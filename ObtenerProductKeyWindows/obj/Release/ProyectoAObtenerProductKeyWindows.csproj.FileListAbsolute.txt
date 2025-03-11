@@ -1,0 +1,12 @@
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\bin\Release\ProductKeyWindowsProyectoA.exe.config
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\bin\Release\ProductKeyWindowsProyectoA.exe
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\bin\Release\ProductKeyWindowsProyectoA.pdb
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProyectoAObtenerProductKeyWindows.csproj.AssemblyReference.cache
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProyectoAObtenerProductKeyWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProductKeyWindowsProyectoA.formDecodificar.resources
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProductKeyWindowsProyectoA.formKey.resources
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProductKeyWindowsProyectoA.Properties.Resources.resources
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProyectoAObtenerProductKeyWindows.csproj.GenerateResource.cache
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProyectoAObtenerProductKeyWindows.csproj.CoreCompileInputs.cache
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProductKeyWindowsProyectoA.exe
+C:\Users\alonso\Desktop\WinProdKeyFinder-master\WinProdKeyFind\obj\Release\ProductKeyWindowsProyectoA.pdb

@@ -1,0 +1,11 @@
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\WinProdKeyFind.csproj.AssemblyReference.cache
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\WinProdKeyFind.csproj.GenerateResource.cache
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\WinProdKeyFind.csproj.CoreCompileInputs.cache
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\bin\Debug\ProductKeyWindowsProyectoA.exe.config
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\bin\Debug\ProductKeyWindowsProyectoA.exe
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\bin\Debug\ProductKeyWindowsProyectoA.pdb
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\ProductKeyWindowsProyectoA.Properties.Resources.resources
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\ProductKeyWindowsProyectoA.exe
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\ProductKeyWindowsProyectoA.pdb
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\ProductKeyWindowsProyectoA.formDecodificar.resources
+C:\Users\ajpd5331v\Downloads\WinProdKeyFinder-master\WinProdKeyFind\obj\Debug\ProductKeyWindowsProyectoA.formKey.resources
